@@ -1,0 +1,49 @@
+Using Different Types of Loops:
+
+for:
+
+// Iterate over keys at the top level
+for (let key in resume) {
+    console.log(key, ':', resume[key]);
+}
+
+for...in:
+
+// Iterate over keys at the top level
+for (let key in resume) {
+    console.log(key, ':', resume[key]);
+}
+
+for...of:
+
+// Iterate over education array
+for (let edu of resume.education) {
+    console.log(edu.degree, '-', edu.school);
+}
+
+// Iterate over skills array
+for (let skill of resume.skills) {
+    console.log(skill);
+}
+
+// Iterate over publications array
+for (let pub of resume.publications) {
+    console.log(pub.title, '-', pub.conference);
+}
+
+forEach:
+
+// Iterate over experience array using forEach
+resume.experience.forEach(function(exp) {
+    console.log(exp.title, '-', exp.company);
+});
+
+// Iterate over certifications array using forEach
+resume.certifications.forEach(function(cert) {
+    console.log(cert.title, '-', cert.authority);
+});
+
+// Iterate over languages array using forEach
+resume.languages.forEach(function(lang) {
+    console.log(lang.language, '-', lang.fluency);
+});

@@ -1,0 +1,54 @@
+{
+  "name": "Santhosh Kumar S",
+  "title": "Freight forwarding",
+  "contact": {
+    "email": "santhosh2001law.com",
+    "phone": "+91 7339583620",
+    "linkedin": "linkedin.com/in/santhoshkumar",
+    "github": "github.com/santhoshDD20"
+  },
+  "education": [
+    {
+      "degree": "B.E - ECE",
+      "school": "MRK Institution of Technology",
+      "location": "Kattumannarkoil",
+      "graduation_date": "2022"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Freight forwarding",
+      "company": "CMA CGM GBSI",
+      "location": "Chennai",
+      "dates": "2023 - Present",
+      "description": "Its fully supply chain and lorgistics and i need to devalope my self through some other place so im devaloping my self right now."
+    },
+  ],
+  "skills": [
+    "Fast learner",
+    "Hacking knowledge",
+    "Deep Learning",
+    "Python",
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Military Robot For Survelliance And Protection System",
+      "authors": ["Santhoshkumar,Gokul,Ajay"],
+      "conference": "Anna University",
+      "date": "2022"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Phython,PCB Design & Circuit Verfication",
+      "authority": "Anna University , shiash PRV LTD",
+      "date": "2022"
+    }
+  ]
+}
